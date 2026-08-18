@@ -84,3 +84,29 @@ def test_answer_key_explains_both_discovery_routes():
     assert "changelog" in text and "q4" in text, (
         "the answer key must name both routes to the discovery"
     )
+
+
+def test_rules_file_ships_under_both_names():
+    """One corpus, two agent CLIs, and neither reads the other's filename.
+
+    Claude Code reads CLAUDE.md and not AGENTS.md; the Antigravity CLI reads
+    AGENTS.md. So the corpus ships both, and a workshop opens whichever its
+    tool actually loads. Shipping two files is only safe if they cannot drift.
+    """
+    agents = (NUSSAA / "AGENTS.md").read_text(encoding="utf-8").splitlines()
+    claude = (NUSSAA / "CLAUDE.md").read_text(encoding="utf-8").splitlines()
+
+    assert agents[0] == "# AGENTS.md — Nussaa support analysis"
+    assert claude[0] == "# CLAUDE.md — Nussaa support analysis"
+    assert agents[1:] == claude[1:], (
+        "AGENTS.md and CLAUDE.md must be identical below the title line. "
+        "Edit one and copy it to the other, or a workshop teaches from a "
+        "rules file the other workshop does not have."
+    )
+
+
+def test_claude_md_does_not_leak_the_answer():
+    text = (NUSSAA / "CLAUDE.md").read_text(encoding="utf-8").lower()
+    assert "4.2" not in text
+    assert "address picker" not in text
+    assert "map pin" not in text

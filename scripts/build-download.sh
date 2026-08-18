@@ -21,7 +21,7 @@ q2=$(find nussaa/tickets-q2 -type f | wc -l | tr -d ' ')
 [[ "$q1" == "200" ]] || fail "tickets-q1 has $q1 files, expected 200"
 [[ "$q2" == "120" ]] || fail "tickets-q2 has $q2 files, expected 120"
 
-for f in nussaa/AGENTS.md nussaa/README.md nussaa/context/changelog.md nussaa/context/themes-2025-q4.md; do
+for f in nussaa/AGENTS.md nussaa/CLAUDE.md nussaa/README.md nussaa/context/changelog.md nussaa/context/themes-2025-q4.md; do
   [[ -f "$f" ]] || fail "missing $f"
 done
 

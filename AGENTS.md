@@ -27,9 +27,12 @@ bump and a note to the workshops that pin it.
   are output. Change the spec, regenerate, re-run the tests.
 - The seed is `20260815` and regeneration must stay byte-identical. If a change
   makes the corpus non-reproducible, that is a bug, not a new baseline.
-- `nussaa/AGENTS.md` is attendee-facing — it is the rules file the workshop
-  teaches with. It must never mention the planted release, the address picker,
-  or anything else that hands over the answer. There is a test for this.
+- `nussaa/AGENTS.md` and `nussaa/CLAUDE.md` are attendee-facing — the rules
+  file the workshop teaches with, shipped under both names because Claude Code
+  reads one and the Antigravity CLI reads the other. They must stay identical
+  below the title line, and neither may mention the planted release, the
+  address picker, or anything else that hands over the answer. There are tests
+  for both of those.
 - The answer key stays out of `nussaa/`. There is a test for this too, and
   `scripts/build-download.sh` refuses to package if it finds one.
 - Messiness in the corpus is curriculum, not sloppiness. Do not "clean up"

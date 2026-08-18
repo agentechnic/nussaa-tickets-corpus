@@ -32,8 +32,19 @@ nussaa/
     changelog.md         what shipped, and when
     themes-2025-q4.md    the previous quarter's report — the house format
   AGENTS.md      the conventions the agent works to
+  CLAUDE.md      the same file under the name Claude Code reads
   README.md      what this is
 ```
+
+### Two names, one rules file
+
+`AGENTS.md` and `CLAUDE.md` ship together and are byte-identical below their
+title lines. This is not redundancy for its own sake: Claude Code
+[reads `CLAUDE.md` and not `AGENTS.md`](https://code.claude.com/docs/en/memory),
+while the Antigravity CLI reads `AGENTS.md`. A workshop opens whichever file
+its tool actually loads, and the folder works with either.
+
+A test enforces that they stay identical. Edit one, copy it to the other.
 
 About 38KB of ticket text in Q1. Worth knowing, because people assume the
 constraint in a workshop is the model's memory. It is not.
