@@ -1,0 +1,6 @@
+Ticket: NUS-00041
+Date: 2026-05-02
+Channel: in-app
+Subject: Bank SMS says the amount was
+
+Bank SMS says the amount was taken but the order never went through

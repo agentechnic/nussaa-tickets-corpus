@@ -1,0 +1,6 @@
+Ticket: NUS-00094
+Date: 2026-02-16
+Channel: in-app
+Subject: Since you changed the address screen
+
+Since you changed the address screen the pin drops in the wrong place every single time

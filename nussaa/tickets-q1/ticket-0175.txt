@@ -1,0 +1,6 @@
+Ticket: NUS-00175
+Date: 2026-03-18
+Channel: email
+Subject: سويت uninstall و install ونفس الـ
+
+سويت uninstall و install ونفس الـ crash بالضبط

@@ -1,0 +1,6 @@
+Ticket: NUS-00024
+Date: 2026-04-21
+Channel: in-app
+Subject: Wallet balance was deducted and the
+
+Wallet balance was deducted and the order still shows as unpaid

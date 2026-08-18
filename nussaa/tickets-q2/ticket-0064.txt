@@ -1,0 +1,6 @@
+Ticket: NUS-00064
+Date: 2026-05-13
+Channel: phone-callback
+Subject: الشاشه تقول payment declined والبنك يقول
+
+الشاشه تقول payment declined والبنك يقول تم الخصم

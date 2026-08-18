@@ -1,0 +1,14 @@
+.DS_Store
+*.swp
+
+# Python — the generator is tracked, its scratch is not.
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+tools/.venv/
+tools/uv.lock
+
+# Built by scripts/build-download.sh and attached to a release.
+# Not tracked here: releases are the distribution channel, not the repo.
+nussaa.zip

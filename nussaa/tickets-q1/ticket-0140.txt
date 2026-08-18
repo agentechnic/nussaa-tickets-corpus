@@ -1,0 +1,6 @@
+Ticket: NUS-00140
+Date: 2026-03-03
+Channel: whatsapp
+Subject: التطبيق يطفي كل ما افتحه
+
+التطبيق يطفي كل ما افتحه

@@ -1,0 +1,6 @@
+Ticket: NUS-00088
+Date: 2026-02-14
+Channel: in-app
+Subject: الـ items الناقصه هي الاغلى في
+
+الـ items الناقصه هي الاغلى في الطلب طبعا

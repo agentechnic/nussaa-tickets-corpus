@@ -1,0 +1,6 @@
+Ticket: NUS-00034
+Date: 2026-04-28
+Channel: in-app
+Subject: ناقص صنفين من الطلب
+
+ناقص صنفين من الطلب

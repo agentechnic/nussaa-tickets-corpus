@@ -1,0 +1,6 @@
+Ticket: NUS-00167
+Date: 2026-03-14
+Channel: phone-callback
+Subject: وصلني طلب لا يخصني ويحمل اسم
+
+وصلني طلب لا يخصني ويحمل اسم

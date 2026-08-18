@@ -1,0 +1,6 @@
+Ticket: NUS-00031
+Date: 2026-01-17
+Channel: phone-callback
+Subject: الطلب تأخر ساعه كامله
+
+الطلب تأخر ساعه كامله

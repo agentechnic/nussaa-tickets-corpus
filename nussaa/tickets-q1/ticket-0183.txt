@@ -1,0 +1,6 @@
+Ticket: NUS-00183
+Date: 2026-03-22
+Channel: phone-callback
+Subject: استلمت كيس فيه طلب باسم شخص
+
+استلمت كيس فيه طلب باسم شخص ثاني

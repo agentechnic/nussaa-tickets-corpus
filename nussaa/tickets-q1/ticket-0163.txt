@@ -1,0 +1,6 @@
+Ticket: NUS-00163
+Date: 2026-03-13
+Channel: in-app
+Subject: جاني طلب ثاني مو طلبي
+
+جاني طلب ثاني مو طلبي

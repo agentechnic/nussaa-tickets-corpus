@@ -1,0 +1,6 @@
+Ticket: NUS-00161
+Date: 2026-03-13
+Channel: whatsapp
+Subject: الدفع يفشل ويطلع لي error بدون
+
+الدفع يفشل ويطلع لي error بدون اي تفاصيل

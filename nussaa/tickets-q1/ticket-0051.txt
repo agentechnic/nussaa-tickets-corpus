@@ -1,0 +1,6 @@
+Ticket: NUS-00051
+Date: 2026-01-27
+Channel: phone-callback
+Subject: The payment screen throws an error
+
+The payment screen throws an error code and tells me nothing else

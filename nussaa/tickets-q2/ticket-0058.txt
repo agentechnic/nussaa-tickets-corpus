@@ -1,0 +1,6 @@
+Ticket: NUS-00058
+Date: 2026-05-10
+Channel: phone-callback
+Subject: تأخر الطلب عن الوقت المحدد ب
+
+تأخر الطلب عن الوقت المحدد ب

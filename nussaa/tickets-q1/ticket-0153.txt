@@ -1,0 +1,6 @@
+Ticket: NUS-00153
+Date: 2026-03-09
+Channel: whatsapp
+Subject: It closes itself the moment I
+
+It closes itself the moment I pick my address from the map

@@ -1,0 +1,6 @@
+Ticket: NUS-00020
+Date: 2026-04-15
+Channel: phone-callback
+Subject: Freezes on the payment screen
+
+Freezes on the payment screen

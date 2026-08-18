@@ -1,0 +1,6 @@
+Ticket: NUS-00148
+Date: 2026-03-05
+Channel: in-app
+Subject: The map page is heavy and
+
+The map page is heavy and the app hangs there every single time

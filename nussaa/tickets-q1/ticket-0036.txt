@@ -1,0 +1,6 @@
+Ticket: NUS-00036
+Date: 2026-01-19
+Channel: phone-callback
+Subject: الطلب تأخر ساعه كامله
+
+الطلب تأخر ساعه كامله

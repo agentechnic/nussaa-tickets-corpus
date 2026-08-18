@@ -1,0 +1,6 @@
+Ticket: NUS-00014
+Date: 2026-01-07
+Channel: email
+Subject: Card declined three times then charged
+
+Card declined three times then charged anyway

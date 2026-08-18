@@ -1,0 +1,6 @@
+Ticket: NUS-00171
+Date: 2026-03-16
+Channel: email
+Subject: Won't open at all since the
+
+Won't open at all since the update

@@ -1,0 +1,6 @@
+Ticket: NUS-00024
+Date: 2026-01-13
+Channel: phone-callback
+Subject: طلبت طلبين ووصلني واحد، والـ app
+
+طلبت طلبين ووصلني واحد، والـ app يقول delivered كامل

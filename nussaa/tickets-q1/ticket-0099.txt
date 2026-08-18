@@ -1,0 +1,6 @@
+Ticket: NUS-00099
+Date: 2026-02-16
+Channel: phone-callback
+Subject: Fries were soggy and the burger
+
+Fries were soggy and the burger was cold

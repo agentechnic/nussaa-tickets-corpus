@@ -1,0 +1,6 @@
+Ticket: NUS-00004
+Date: 2026-04-02
+Channel: phone-callback
+Subject: كل ما افتح الـ tracking يزيد
+
+كل ما افتح الـ tracking يزيد الـ ETA بدل ما ينقص

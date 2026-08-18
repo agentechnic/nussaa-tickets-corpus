@@ -1,0 +1,6 @@
+Ticket: NUS-00131
+Date: 2026-03-01
+Channel: phone-callback
+Subject: Since you changed the address screen
+
+Since you changed the address screen the pin drops in the wrong place every single time

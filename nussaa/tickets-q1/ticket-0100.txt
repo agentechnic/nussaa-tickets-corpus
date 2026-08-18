@@ -1,0 +1,6 @@
+Ticket: NUS-00100
+Date: 2026-02-16
+Channel: in-app
+Subject: Fries were soggy and the burger
+
+Fries were soggy and the burger was cold

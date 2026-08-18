@@ -1,0 +1,6 @@
+Ticket: NUS-00194
+Date: 2026-03-28
+Channel: phone-callback
+Subject: الـ location في التطبيق غلط، he
+
+الـ location في التطبيق غلط، he went to the wrong compound

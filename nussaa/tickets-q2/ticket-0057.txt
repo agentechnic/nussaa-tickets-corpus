@@ -1,0 +1,6 @@
+Ticket: NUS-00057
+Date: 2026-05-10
+Channel: phone-callback
+Subject: my card work everywhere else but
+
+my card work everywhere else but not in your app, why?

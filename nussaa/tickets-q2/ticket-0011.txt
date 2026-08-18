@@ -1,0 +1,6 @@
+Ticket: NUS-00011
+Date: 2026-04-06
+Channel: phone-callback
+Subject: الطلب late وانتم ما ارسلتوا ولا
+
+الطلب late وانتم ما ارسلتوا ولا notification

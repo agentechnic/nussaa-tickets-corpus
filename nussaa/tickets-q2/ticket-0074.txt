@@ -1,0 +1,6 @@
+Ticket: NUS-00074
+Date: 2026-05-23
+Channel: phone-callback
+Subject: الطلب المستلم ناقص عدداً من
+
+الطلب المستلم ناقص عدداً من

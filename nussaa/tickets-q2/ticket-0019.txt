@@ -1,0 +1,6 @@
+Ticket: NUS-00019
+Date: 2026-04-15
+Channel: email
+Subject: Since the last update it throws
+
+Since the last update it throws me back to the home screen mid-order

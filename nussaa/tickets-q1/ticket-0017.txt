@@ -1,0 +1,6 @@
+Ticket: NUS-00017
+Date: 2026-01-08
+Channel: email
+Subject: Charged twice for the same order
+
+Charged twice for the same order

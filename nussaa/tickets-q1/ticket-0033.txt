@@ -1,0 +1,6 @@
+Ticket: NUS-00033
+Date: 2026-01-18
+Channel: phone-callback
+Subject: الاكل بارد ومتكتل، والـ packaging مقلوب
+
+الاكل بارد ومتكتل، والـ packaging مقلوب ونص الصحن مكبوب
