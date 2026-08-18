@@ -64,7 +64,8 @@ judgement call, and a second analyst would differ again.
 whether the report finds the theme, states a count it can defend, and connects
 it to v4.2 by date. A report saying 34 is not wrong.
 
-See `agy-dry-run.md` for the full comparison.
+Each workshop keeps its own dry-run record, in its own repository,
+showing what a real run of that tool produced against this corpus.
 
 ## What a good report does
 
@@ -140,14 +141,14 @@ never touch it.
 The property tests assert the counts this page states:
 
 ```bash
-cd tools && uv run pytest        # 113 tests
+cd tools && uv run pytest        # 115 tests
 ```
 
 Two consequences worth knowing:
 
 - **Every number on this page is the generator's ground truth**, not a
-  transcript of any particular run. See `agy-dry-run.md` for what a real run
-  on `agy` actually produced, and why the two differ.
+  transcript of any particular run. Each workshop's own dry-run record shows
+  what a real run produced against this corpus, and why the two differ.
 - **If you change anything in `tools/corpus/spec.py`, every number on this
   page stops being true.** Re-run the tests, update the tables here, and
   rebuild the attendee download with `bash scripts/build-download.sh` — or the

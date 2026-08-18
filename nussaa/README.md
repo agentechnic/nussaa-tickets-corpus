@@ -13,17 +13,22 @@ tickets-q1/    200 support tickets, one per file
 tickets-q2/    120 more, from the following quarter
 context/       the product changelog and last quarter's report
 AGENTS.md      conventions, and the report format to match
+CLAUDE.md      the same file, under the name Claude Code reads
 ```
 
 ## Start
 
 ```bash
 cd nussaa
-agy
+agy          # Antigravity CLI — reads AGENTS.md
+claude       # Claude Code    — reads CLAUDE.md
 ```
 
-Then ask for what you want. Read `AGENTS.md` first if you want to know what
-the agent already knows before you type anything.
+Start whichever agent your workshop uses. Then ask for what you want.
+
+Read the rules file first if you want to know what the agent already knows
+before you type anything. `AGENTS.md` and `CLAUDE.md` are the same file under
+two names, because the two tools each read only their own.
 
 ## A note on the tickets
 
