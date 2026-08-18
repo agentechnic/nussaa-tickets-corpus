@@ -29,7 +29,10 @@ done
 leaked=$(find nussaa -name 'themes-2026-*.md' -o -name 'SKILL.md' -o -name 'nussaa-answer-key.md' | head -5)
 [[ -z "$leaked" ]] || fail "answer material inside the corpus:"$'\n'"$leaked"
 
-if grep -rq 'CLAUDE\.md' nussaa; then fail "nussaa/ still references CLAUDE.md"; fi
+# The rules file ships under both names and must not have drifted.
+if ! diff -q <(tail -n +2 nussaa/AGENTS.md) <(tail -n +2 nussaa/CLAUDE.md) >/dev/null; then
+  fail "AGENTS.md and CLAUDE.md differ below the title line"
+fi
 
 rm -f nussaa.zip
 zip -rq nussaa.zip nussaa -x '*.DS_Store'
