@@ -118,7 +118,7 @@ standing between a spec change and handing the room its answer.
 ## Who uses it
 
 - [getting-real-with-antigravity](https://github.com/agentechnic/getting-real-with-antigravity)
-- getting-real-with-claude-code
+- [getting-real-with-claude-code](https://github.com/agentechnic/getting-real-with-claude-code)
 
 ## Licence
 
